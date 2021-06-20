@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: pink;
+  height: 100vh;
+}
+
+.header {
+  font-size: 60px;
+  font-weight: 'bold';
+  margin: 0;
+}
+
+.input {
+}
+
+.topSection {
+  border: 2px solid black;
+  padding: 40px;
+}
+
+.todoList {
+  flex: 1;
+  flex-direction: column;
+}
+
+.todoItem {
+  flex: 1;
+  flex-direction: row;
+}
